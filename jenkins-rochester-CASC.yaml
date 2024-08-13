@@ -1,0 +1,878 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          id: "b7b8cf3d-2a98-41f2-a46d-1e51fb4ed395"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "jenkins"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Default user for Sonar server"
+          id: "f7fa7de5-784e-4f58-bfde-b8376d97c711"
+          password: "{AQAAABAAAAAQ5ZZ9NxgSOspq08bzebW1vo8Im5aKp/W74FmLNmkn4qg=}"
+          scope: GLOBAL
+          username: "hmcdev"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Agent node devops user"
+          id: "D2EE4541-1BBE-4BCC-9287-2E3CF84FDA6B"
+          password: "{AQAAABAAAAAQsHNKnH9OXdBagE7v3vhHC8b50brzf5Q6JKpjoaUdjko=}"
+          scope: GLOBAL
+          username: "devops"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Sonar runner credentials"
+          id: "ac6bc285-5a4b-4bf2-b743-fc44ffce4c4d"
+          password: "{AQAAABAAAAAQjO3ZAxjiDpPgjQCCV2/qSVfvHHfuld7qpP3GhbJ7Udo=}"
+          scope: GLOBAL
+          username: "gradle_sonar"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Functional ID (csnext user)"
+          id: "52e9385a-4f6e-4486-ab4c-4c428dfab778"
+          password: "{AQAAABAAAAAgwSjtZZ2Jn0XWfReRqowqGa1sGMOLE6EoKCg2NEuwzeWjBpLPF35BoHm30ETDDcNf}"
+          scope: GLOBAL
+          username: "csnext@us.ibm.com"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Sonar runner credentials"
+          id: "ac6bc285-5a4b-4bf2-b743-fc44ffce4c4d"
+          password: "{AQAAABAAAAAQ9R+2u9KyCorLxSSVbJPl6VQ+I6auHh9MaWWXWNy/H2c=}"
+          scope: GLOBAL
+          username: "gradle_sonar"
+          usernameSecret: true
+      - string:
+          description: "HMC Alert App slack token"
+          id: "b3a5fbff-3a0c-4d34-8c98-9ab90b5986ec"
+          scope: GLOBAL
+          secret: "{AQAAABAAAABAf77WjZ4hZO1Inhx3fwwaZ2cTWOBffQXyOcDgdforPCQXr9Xm4yvv1mBjOu3vvEfUWcSQrosVFiozX7TCRTAPOPGjqPdoTdwYOQGkfjuT6oM=}"
+      - usernamePassword:
+          description: "Security Jenkins Server Credentials"
+          id: "e4352b9e-478a-46ea-b6d1-a8204abda409"
+          password: "{AQAAABAAAAAQaTL4fTN7Cde2SYmwuQMe1+wH4plQcKDg5bwgU8ck2BE=}"
+          scope: GLOBAL
+          username: "devsecops"
+          usernameSecret: true
+      - usernamePassword:
+          description: "Performance Jenkins Server Credentials"
+          id: "6a196102-2dc7-404d-9917-aad1fe29ec0d"
+          password: "{AQAAABAAAAAQifLu6EVO2sYn7si4X/1vV2ZjgPFmXaFXaGx0ZAdRKMc=}"
+          scope: GLOBAL
+          username: "DevPerfOps"
+          usernameSecret: true
+      - usernamePassword:
+          description: "csnext user"
+          id: "8c4dfec9-ef7f-4b64-85bb-a9679a64bba3"
+          password: "{AQAAABAAAAAgbybUMQJ/0WAThl/CDVvhcvFK+nSlzC4O2/eMMtbE+kWBXfP72upMr3v4QStbod9k}"
+          scope: GLOBAL
+          username: "csnext"
+          usernameSecret: true
+      - usernamePassword:
+          description: "hmcdev (new ci nodes hmcx86ciX cred)"
+          id: "5b4115ef-06ef-4a07-8d8c-039d0045ca3c"
+          password: "{AQAAABAAAAAQCgV7RhCu+dbokSbCiF/R0C5Dq24akvag0yHYod64vYY=}"
+          scope: GLOBAL
+          username: "hmcdev"
+          usernameSecret: true
+      - usernamePassword:
+          description: "PAT for the github public repo csnext/hmc_devops_ci"
+          id: "714e4cc7-71d2-460f-9e35-e9d7e285d6d1"
+          password: "{AQAAABAAAAAwWp1ZM6XLFHejvau68ON2LDBrmTxWaQdTPNhYtTgjbqPVSm3c9XS1/cCEQpzuzli/U9EXgvlYl2cT012r9GQMwQ==}"
+          scope: GLOBAL
+          username: "csnext@us.ibm.com"
+          usernameSecret: true
+      - usernamePassword:
+          description: "devindia user for CT Jenkins trigger"
+          id: "6229f73b-0c28-4b53-a48e-7089dc9ae5e3"
+          password: "{AQAAABAAAAAwM/UdSc9rNgWGeLNSF6YMV9Tt5Y5Xw0Q9NHaTQ6YO2g56RQFpN64eSDkknIoilP8WnMP9/JcirLM5jyfHnvfe1Q==}"
+          scope: GLOBAL
+          username: "devindia@in.ibm.com"
+          usernameSecret: true
+      - usernamePassword:
+          description: "vhmcCloudCreds"
+          id: "ebeb57a9-e57a-4365-bcbd-f444bfdbf13a"
+          password: "{AQAAABAAAAAQBmAxSRILFAjhbthIUKuJuumdZY6Lc+OexW/MbTxnMqE=}"
+          scope: GLOBAL
+          username: "root"
+      - usernamePassword:
+          description: "jFrog credentials with Access Token"
+          id: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+          password: "{AQAAABAAAABQC1fa6JCyL+ed0k6ZfE2g9u/cKTdpxoHhhoPFtTkVNODnoCv6dBmAj1mE+YHduYTNuWUq5ON8F0P7lR3P2hVrqNXSp8ylzkvYyCI8o3zutIT4wdFvMzGPtorX0aGp56Q9}"
+          scope: GLOBAL
+          username: "csnext@us.ibm.com"
+      - usernamePassword:
+          description: "hmcdev : New password"
+          id: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          password: "{AQAAABAAAAAgMBKlixjZezTeUozhfUOmS5HHEttRZ9Q290Mg+BZilI2ZVlC/JnLzGqftya1B21qF}"
+          scope: GLOBAL
+          username: "hmcdev"
+      - usernamePassword:
+          description: "hmcdev : latest password"
+          id: "316b2ec9-ac88-41db-84ff-e67b69518ed3"
+          password: "{AQAAABAAAAAgrPjqNFgM4tA6eLcHuX7a2Y7Tw4lbftdZDu3R4UqZlTnJb2PxlhhYGs813wAHDKjJ}"
+          scope: GLOBAL
+          username: "hmcdev"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    globalMatrix:
+      permissions:
+      - "Agent/Build:HMCDevExternalComponents"
+      - "Agent/Build:hmc-devops-access"
+      - "Agent/Connect:HMCDevExternalComponents"
+      - "Agent/Connect:hmc-devops-access"
+      - "Credentials/Create:HMCDevExternalComponents"
+      - "Credentials/Create:hmc-devops-access"
+      - "Credentials/View:HMCDevExternalComponents"
+      - "Credentials/View:hmc-devops-access"
+      - "Gerrit/ManualTrigger:HMCDevExternalComponents"
+      - "Gerrit/ManualTrigger:hmc-devops-access"
+      - "Job/Build:HMCDevExternalComponents"
+      - "Job/Build:hmc-devops-access"
+      - "Job/Cancel:HMCDevExternalComponents"
+      - "Job/Cancel:hmc-devops-access"
+      - "Job/Read:HMCDevExternalComponents"
+      - "Job/Read:hmc-devops-access"
+      - "Job/Workspace:HMCDevExternalComponents"
+      - "Job/Workspace:hmc-devops-access"
+      - "Overall/Administer:Meku.Saha@ibm.com"
+      - "Overall/Administer:Sreenidhi.S1@ibm.com"
+      - "Overall/Administer:anilvijayan@in.ibm.com"
+      - "Overall/Administer:csnext@us.ibm.com"
+      - "Overall/Administer:nkandak1@in.ibm.com"
+      - "Overall/Read:HMCDevExternalComponents"
+      - "Overall/Read:hmc-devops-access"
+      - "USER:Overall/Administer:nkandak1@in.ibm.com"
+      - "View/Read:HMCDevExternalComponents"
+      - "View/Read:hmc-devops-access"
+  clouds:
+  - docker:
+      containerCap: 5
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://10.48.20.58:4243"
+        hostname: "9.3.206.184"
+        readTimeout: 60
+      exposeDockerHost: true
+      name: "docker-x86-ci2"
+      templates:
+      - connector: "attach"
+        dockerTemplateBase:
+          cpuPeriod: 0
+          cpuQuota: 0
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/mcp/x86/mcp9-buildenv:17.1"
+          mounts:
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache"
+          mountsString: |-
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache
+          privileged: true
+          pullCredentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+          tty: true
+        labelString: "mcp9x86"
+        name: "mcp9x86-ci2"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/hmc"
+        removeVolumes: true
+      - connector: "attach"
+        dockerTemplateBase:
+          cpuPeriod: 0
+          cpuQuota: 0
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/mcp/x86/mcp83-buildenv"
+          mounts:
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache"
+          mountsString: |-
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache
+          privileged: true
+          pullCredentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+        labelString: "mcp83x86"
+        name: "mcp83x86-ci2"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/hmc"
+        removeVolumes: true
+      - connector: "attach"
+        dockerTemplateBase:
+          cpuPeriod: 0
+          cpuQuota: 0
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/mcp/x86/mcp9-buildenv:jv-11-8"
+          mounts:
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache"
+          mountsString: |-
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache
+          privileged: true
+          pullCredentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+        labelString: "mcp9x86-J8"
+        name: "mcp9x86-J8-ci2"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        removeVolumes: true
+  - docker:
+      dockerApi:
+        connectTimeout: 60
+        dockerHost:
+          uri: "tcp://10.48.20.91:4243"
+        hostname: "hmcx86build4.isst.aus.stglabs.ibm.com"
+        readTimeout: 60
+      name: "docker-ppc6412"
+      templates:
+      - connector: "attach"
+        dockerTemplateBase:
+          cpuPeriod: 0
+          cpuQuota: 0
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/mcp/ppc/mcp9-buildenv:17.1"
+          mounts:
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache"
+          mountsString: |-
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache
+          privileged: true
+          pullCredentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+        labelString: "mcp9ppc"
+        name: "mcp9ppc"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/hmc"
+        removeVolumes: true
+      - connector: "attach"
+        dockerTemplateBase:
+          cpuPeriod: 0
+          cpuQuota: 0
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/mcp/ppc/mcp9-buildenv:jv-11-8"
+          mounts:
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache"
+          - "type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache"
+          mountsString: |-
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-distributions,target=/tmp/hmc-distributions-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/hmc-base,target=/tmp/hmc-base-core-cache
+            type=bind,src=/tmp/jenkins-test/pipeline-cache/sfp-invscout,target=/tmp/sfp-invscout-core-cache
+          privileged: true
+          pullCredentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+        labelString: "mcp9ppc-J8"
+        name: "mcp9ppc-J8"
+        pullStrategy: PULL_ALWAYS
+        pullTimeout: 300
+        remoteFs: "/hmc"
+        removeVolumes: true
+  - kubernetes:
+      connectTimeout: 60
+      jenkinsUrl: "http://jenkins-instance.jenkins.svc.cluster.local:8080/jenkins"
+      maxRequestsPerHost: 120
+      maxRequestsPerHostStr: "120"
+      name: "kubernetes"
+      readTimeout: 120
+      serverUrl: "https://10.48.20.68:4200"
+      templates:
+      - activeDeadlineSeconds: 300
+        activeDeadlineSecondsStr: "300"
+        containers:
+        - args: "9999999"
+          command: "sleep"
+          image: "docker-na.artifactory.swg-devops.com/pse-hmc-docker-local/jenkins/inbound-agent:4.11-1"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          workingDir: "/home/jenkins/agent"
+        id: "49795f3e-a7d4-4960-9e7c-e21d1c7938b8"
+        imagePullSecrets:
+        - name: "regcred"
+        label: "kubeagent"
+        name: "kube-mcp9x86"
+        namespace: "default"
+        yamlMergeStrategy: "override"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  labelAtoms:
+  - name: "build_vm"
+  - name: "built-in"
+  - name: "docker_ppc64"
+  - name: "docker_x86"
+  - name: "docker_x86_patchset"
+  - name: "docker_x86_sonar"
+  - name: "hmc-build-power-server1"
+  - name: "hmc-build-x86-server18"
+  - name: "hmc-build-x86-server19"
+  - name: "hmc-build-x86-server20"
+  - name: "hmc-build-x86-server4"
+  - name: "hmc-zeppelin3-lp01"
+  - name: "hmcnfs"
+  - name: "hmcnfsgit"
+  - name: "hmcx86build2"
+  - name: "hmcx86build3"
+  - name: "hmcx86ci2"
+  - name: "kubeagent"
+  - name: "master"
+  - name: "mcp83x86"
+  - name: "mcp9ppc"
+  - name: "mcp9ppc-J8"
+  - name: "mcp9x86"
+  - name: "mcp9x86-J8"
+  - name: "ping"
+  - name: "vhmc_ppc64"
+  - name: "vhmc_x86"
+  - name: "vhmc_x86_uefi"
+  - name: "x86-build-patch-changeset-node"
+  - name: "x86-sonar-node"
+  labelString: "master"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  nodes:
+  - permanent:
+      labelString: "docker_ppc64 vhmc_ppc64"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-build-power-server1.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-ppc64el/bin/java"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-build-power-server1"
+      nodeDescription: "HMC Docker and vHMC Build for PPC64LE"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "build_vm docker_x86 x86-build-patch-changeset-node x86-sonar-node"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-build-x86-server18.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-build-x86-server18"
+      nodeDescription: "vHMC Build for x86"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "vhmc_x86"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-build-x86-server19.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-build-x86-server19"
+      nodeDescription: "vHMC Build for x86"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "build_vm docker_x86"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-build-x86-server20.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-build-x86-server20"
+      nodeDescription: "vHMC Build for x86"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "build_vm docker_x86 ping"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-build-x86-server4.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-build-x86-server4"
+      nodeDescription: "vHMC Build for x86"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "docker_ppc64 vhmc_ppc64"
+      launcher:
+        ssh:
+          credentialsId: "c9a168f8-8b39-41ae-a589-a18d00df3143"
+          host: "hmc-zeppelin3-lp01.phmc.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-ppc64el/bin/java"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmc-zeppelin3-lp01"
+      nodeDescription: "HMC Docker and vHMC Build for PPC64LE"
+      numExecutors: 5
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "hmcnfs"
+      launcher:
+        ssh:
+          credentialsId: "8c4dfec9-ef7f-4b64-85bb-a9679a64bba3"
+          host: "9.3.147.72"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          port: 22
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmcnfsgit"
+      nodeDescription: "This agent node is strictly dedicated to the activities related\
+        \ to the HMC drivers in the NFS server (hmcnfsgit.isst.aus.stglabs.ibm.com)"
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "docker_x86 docker_x86_sonar docker_x86_patchset"
+      launcher:
+        ssh:
+          credentialsId: "D2EE4541-1BBE-4BCC-9287-2E3CF84FDA6B"
+          host: "hmc-build-x2.aus.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms6g -Xmx6g"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmcx86build2"
+      nodeDescription: "Docker Host x86"
+      numExecutors: 10
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "vhmc_x86_uefi"
+      launcher:
+        ssh:
+          credentialsId: "5b4115ef-06ef-4a07-8d8c-039d0045ca3c"
+          host: "hmc-build-x3.aus.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmcx86build3"
+      nodeDescription: "vHMC Build for x86"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 7
+      remoteFS: "/tmp/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      launcher:
+        ssh:
+          credentialsId: "5b4115ef-06ef-4a07-8d8c-039d0045ca3c"
+          host: "hmc-ci2.aus.stglabs.ibm.com"
+          javaPath: "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+          jvmOptions: "-Xms10g -Xmx10g -Dhudson.util.ProcessTree.disable=true"
+          maxNumRetries: 0
+          port: 22
+          retryWaitTime: 0
+          sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+      mode: EXCLUSIVE
+      name: "hmcx86ci2"
+      nodeDescription: "Common build machine"
+      nodeProperties:
+      - envVars:
+          env:
+          - key: "JENKINS_NODE_COOKIE"
+            value: "dontKillMe"
+      numExecutors: 10
+      remoteFS: "/tmp/jenkins-test"
+      retentionStrategy: "always"
+  numExecutors: 5
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    ldap:
+      configurations:
+      - inhibitInferRootDN: false
+        rootDN: "o=ibm.com"
+        server: "ldaps://bluepages.ibm.com"
+        userSearch: "mail={0}"
+      disableMailAddressResolver: false
+      groupIdStrategy: "caseInsensitive"
+      userIdStrategy: "caseInsensitive"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      description: "All HMC Driver build related jobs"
+      jobNames:
+      - "build-hmc-drivers"
+      - "connect-asterix"
+      - "create-hmc-driver-release-notes"
+      - "create-vhmc-image-ppc64"
+      - "create-vhmc-image-uefi-x86"
+      - "create-vhmc-image-x86"
+      - "hmc-cmds-test-bats"
+      - "hmc-distributions-ppc64"
+      - "hmc-distributions-x86"
+      - "promote-hmc-driver-images-to-box"
+      - "provision-vhmc-instance"
+      - "publish-archives-to-nfs"
+      - "publish-artifacts-to-artifactory"
+      - "publish-hmc-driver-release-notes"
+      - "reset-vhmc-instance"
+      - "run-ci-sanity"
+      - "run-ebmc-ci-sanity"
+      - "run-hmc-dvt"
+      - "run-rest-bvt"
+      - "run-rest-ci-sanity"
+      - "store-latest-released-hmc-driver-version"
+      name: "HMC Driver Build"
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  copyartifact:
+    mode: PRODUCTION
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "noHostKeyVerificationStrategy"
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: false
+  sSHD:
+    port: -1
+  scriptApproval:
+    approvedScriptHashes:
+    - "17b562c52ee76cf2658cc1e85bcf7e2e087253d9"
+    - "SHA512:1199c95cc3425e5469da81949bfca40ce4b2d7f8cd1c111324170957341fab5d5ef102b3eb2fe6cb787426194cf5ff0b4c7e9fecd9e9ac6b49f1aa39ac82ba9f"
+    - "SHA512:12546ecf83f6b52d68ce59610bf722cdb29d4edd0b254a37ea6ab499cbc2839c6eefb75c79f6c3c1aeefa4eca2bc2d03f585081aec34f506709e2388b343b329"
+    - "SHA512:279efdc32beabcaec5fc9ec111ddf98624eab785ca43ad92cf796591eeaaae545d743c09f885381a4bd2bb948b066b59de35f525a5b3bf1a4219552802126f3a"
+    - "SHA512:2f1aa6d46adde1989f76258a8fc11e89f20d346d4c663e9623f3f54b500acda98450c0c66ab9c079218bef8cb2c6f3750996cbda0fcd7a6697ad3f53416d41f5"
+    - "SHA512:3f205299bef2fe3329258a42f2c60d332cc35ccb41a3ca0512d7869c6aff4561ff708c48123b4f7c3dec33ccca30d54fb8b9b51b5bc7070f96236d11a3f0bdcb"
+    - "SHA512:7ed0536eae9178b7abef8fc07c9180a689e59fefb1c5c17b01b419ce0e3fb410c5fbec03367abc1055dddcc50cbe0cba8eec9686993a1f4e29d99de226e66ad6"
+    - "SHA512:c9b0016892ce594756ec340a84a2ac420f1c6aa052593b7c2e5af221111b2b7236aabc7a589a37a027459729c2ccbe55f59f9702d146af082d87ed2b027afbf6"
+    - "SHA512:cab71269d3313e8d40f46773ed668dc2f65cffb963e3f2200f1f97f9a87f982ca2eb3d91ed366fac4aadbded890fddf67ab6d11cf0fc20ec323f168805310b33"
+    - "SHA512:cab8a7a27f1d5429b721159756f73a1b72b129b1ef54e1fff03e46efc3bf89279a52a9ed32233b6ed989135ba28f3b8947bf58bfa4e458aa54f111f48633a6a9"
+    - "SHA512:d7e91ede5173bbf868d2fd002fdc258abd9eacec6466e5534b6b81101fcfacf2a2a701ca2a9ebb20967018d716a95b583ff87207a931888535f86c57c54a0665"
+    approvedSignatures:
+    - "method java.lang.Process exitValue"
+    - "method java.lang.Process waitFor"
+    - "staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods execute java.util.List"
+    - "staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods getText java.io.InputStream"
+    - "staticMethod org.codehaus.groovy.runtime.ProcessGroovyMethods getErr java.lang.Process"
+    - "staticMethod org.codehaus.groovy.runtime.ProcessGroovyMethods getIn java.lang.Process"
+unclassified:
+  artifactoryBuilder:
+    jfrogInstances:
+    - artifactoryUrl: "http://powermc-artifactory.aus.stglabs.ibm.com:8081/artifactory"
+      bypassProxy: false
+      connectionRetry: 3
+      deployerCredentialsConfig:
+        overridingCredentials: false
+        password: "{AQAAABAAAAAQBt8kmCcNKshE/GPbEfTUCJRBkOrnWR4RoyooTGx2MV0=}"
+        username: "****"
+      deploymentThreads: 3
+      instanceId: "powermc-artifactory"
+      timeout: 300
+    - artifactoryUrl: "https://na.artifactory.swg-devops.com/artifactory"
+      bypassProxy: false
+      connectionRetry: 5
+      deployerCredentialsConfig:
+        credentialsId: "fd6873cb-cf8b-4269-be1b-9ffdeacd2822"
+        overridingCredentials: false
+        password: "{AQAAABAAAAAQnbC+zDGDgcwAQlwAPTzu6WH2+n2EJSTY7z79JkwP4Oc=}"
+        username: "****"
+      deploymentThreads: 3
+      instanceId: "swg-artifactory"
+      timeout: 300
+    jfrogPipelinesServer:
+      bypassProxy: false
+      connectionRetries: 3
+      credentialsConfig:
+        ignoreCredentialPluginDisabled: true
+        overridingCredentials: false
+        password: "{AQAAABAAAAAQY+hVJZegqPsVhVcGnSgtltZUdy+YP6HYNlKZ+euYKr0=}"
+        username: "****"
+      timeout: 300
+    useCredentialsPlugin: true
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketCloudEndpoint:
+        enableCache: false
+        manageHooks: false
+        repositoriesCacheDuration: 0
+        teamCacheDuration: 0
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildMonitorView:
+    permissionToCollectAnonymousUsageStatistics: true
+  claimConfig:
+    emailDisplayedForAssigneesList: false
+    propagateToFollowingBuildsByDefault: false
+    sendEmails: false
+    sendEmailsForStickyFailures: false
+    sortUsersByFullName: false
+    stickyByDefault: true
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: true
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    mailAccount:
+      smtpHost: "na.relay.ibm.com"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  enrichedSummaryConfig:
+    enrichedSummaryEnabled: false
+    httpClientDelayBetweenRetriesInSeconds: 1
+    httpClientMaxRetries: 3
+    httpClientTimeoutInSeconds: 1
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gerrit-trigger:
+    servers:
+    - config:
+        buildCurrentPatchesOnly:
+          abortAbandonedPatchsets: false
+          abortManualPatchsets: false
+          abortNewPatchsets: false
+          abortSameTopic: false
+          enabled: false
+        categories:
+        - verdictDescription: "Code Review"
+          verdictValue: "Code-Review"
+        - verdictDescription: "Verified"
+          verdictValue: "Verified"
+        gerritAuthKeyFile: "/usr/share/jenkins/secrets/gerrit"
+        gerritCmdBuildAborted: "gerrit review <CHANGE>,<PATCHSET> --message 'Build\
+          \ Aborted <BUILDS_STATS>' --verified <VERIFIED> --code-review <CODE_REVIEW>"
+        gerritCmdBuildFailed: "gerrit review <CHANGE>,<PATCHSET> --message 'Build\
+          \ Failed <BUILDS_STATS>' --verified <VERIFIED> --code-review <CODE_REVIEW>"
+        gerritCmdBuildNotBuilt: "gerrit review <CHANGE>,<PATCHSET> --message 'No Builds\
+          \ Executed <BUILDS_STATS>' --verified <VERIFIED> --code-review <CODE_REVIEW>"
+        gerritCmdBuildStarted: "gerrit review <CHANGE>,<PATCHSET> --message 'Build\
+          \ Started <BUILDURL> <STARTED_STATS>' --verified <VERIFIED> --code-review\
+          \ <CODE_REVIEW>"
+        gerritCmdBuildSuccessful: "gerrit review <CHANGE>,<PATCHSET> --message 'Build\
+          \ Successful <BUILDS_STATS>' --verified <VERIFIED> --code-review <CODE_REVIEW>"
+        gerritCmdBuildUnstable: "gerrit review <CHANGE>,<PATCHSET> --message 'Build\
+          \ Unstable <BUILDS_STATS>' --verified <VERIFIED> --code-review <CODE_REVIEW>"
+        gerritFrontEndUrl: "https://rchgit01.rchland.ibm.com/gerrit3/"
+        gerritHostName: "rchgit01.rchland.ibm.com"
+        gerritHttpPassword: "****"
+        gerritHttpUserName: "jenkins"
+        gerritSshPort: 29420
+        gerritUserName: "jenkins"
+        restVerified: true
+        useRestApi: true
+      name: "rchgit01"
+      noConnectionOnStartup: true
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://hmc-devops1.aus.stglabs.ibm.com/jenkins/github-webhook/"
+  globalLibraries:
+    libraries:
+    - defaultVersion: "docker-agent"
+      includeInChangesets: false
+      name: "hmc-infra-shared"
+      retriever:
+        modernSCM:
+          scm:
+            git:
+              credentialsId: "b7b8cf3d-2a98-41f2-a46d-1e51fb4ed395"
+              id: "309d0152-61ae-43d5-9d0d-453200195fbb"
+              remote: "ssh://jenkins@rchgit01.rchland.ibm.com:29420/jenkins-shared-lib.git"
+              traits:
+              - "gitBranchDiscovery"
+  injectionConfig:
+    allowUntrusted: false
+    checkForBuildAgentErrors: false
+    enabled: false
+    enforceUrl: false
+    injectCcudExtension: false
+    injectMavenExtension: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "https://hmc-devops1.phmc.stglabs.ibm.com/jenkins/"
+  mailer:
+    charset: "UTF-8"
+    smtpHost: "na.relay.ibm.com"
+    useSsl: false
+    useTls: false
+  mavenModuleSet:
+    localRepository: "default"
+  pollSCM:
+    pollingThreadCount: 10
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    globalConfigEmail: "nobody@nowhere.ibm.com"
+    globalConfigName: "jenkins"
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  slackNotifier:
+    botUser: true
+    iconEmoji: "https://a.slack-edge.com/80588/img/services/jenkins-ci_512.png"
+    room: "G0Q68HDA8"
+    sendAsText: false
+    teamDomain: "ibm-systems-power"
+    tokenCredentialId: "b3a5fbff-3a0c-4d34-8c98-9ab90b5986ec"
+  sonarGlobalConfiguration:
+    buildWrapperEnabled: false
+  timestamper:
+    allPipelines: true
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+  upstream:
+    globalUpstreamFilterStrategy: UseOldest
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  gradle:
+    installations:
+    - name: "Gradle 2.11"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "2.11"
+    - name: "Gradle 3.5"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "3.5"
+    - name: "Gradle 6.5"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "6.5"
+    - name: "Gradle 7.3"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "7.3"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+  sonarRunnerInstallation:
+    installations:
+    - name: "sonar-runner-2.6.1"
+      properties:
+      - installSource:
+          installers:
+          - sonarRunnerInstaller:
+              id: "2.6.1"
